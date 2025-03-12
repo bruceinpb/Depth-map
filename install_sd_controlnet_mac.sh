@@ -35,3 +35,4 @@ echo "Restarting WebUI..."
 ./webui.sh
 
 echo "Installation complete! Open http://127.0.0.1:7860/ in your browser."
+Added Stable Diffusion + ControlNet Mac Installer
